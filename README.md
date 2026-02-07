@@ -1,6 +1,6 @@
-<h1 align="center">Hola, soy Renso Peralta 👋</h1>
+<h1 align="center">Hi, I'm Renso Peralta 👋</h1>
 <p align="center">
-  Estudiante de Ingeniería en Ciencias de la Computación
+  Computer Science Engineering Student
 </p>
 
 <p align="center">
