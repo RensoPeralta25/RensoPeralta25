@@ -1,6 +1,6 @@
-<h1 align="center">Hola, soy Renso 👋</h1>
+<h1 align="center">Hola, soy Renso Peralta 👋</h1>
 <p align="center">
-  Estudiante de Ingeniería en Ciencias de la Computación • Java • SQL Server • Web
+  Estudiante de Ingeniería en Ciencias de la Computación
 </p>
 
 <p align="center">
