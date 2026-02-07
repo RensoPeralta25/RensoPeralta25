@@ -11,28 +11,31 @@
 
 ---
 
-## 📊 GitHub Stats (contribuciones)
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RensoPeralta25&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RensoPeralta25" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RensoPeralta25&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RensoPeralta25&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🧠 Lenguajes más usados
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RensoPeralta25&layout=compact&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RensoPeralta25&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Actividad (gráfico)
+## 📈 Actividad
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RensoPeralta25&radius=16" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RensoPeralta25&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 📫 Contacto
 - GitHub: https://github.com/RensoPeralta25
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/renso-isael-peralta-ureña-102a43356/
