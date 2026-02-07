@@ -11,13 +11,6 @@
 
 ---
 
-## 🚀 Sobre mí
-- 💻 Me interesa: **Java (Swing/JavaFX), Backend, Bases de Datos (SQL Server), y desarrollo web**
-- 🧠 Actualmente: construyendo proyectos con **DAO + JDBC** y apps completas con CRUD
-- 🎯 Meta: dominar arquitectura, patrones, y buen diseño de sistemas
-
----
-
 ## 📊 GitHub Stats (contribuciones)
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RensoPeralta25&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false" />
@@ -40,15 +33,6 @@
 
 ---
 
-## 🧩 Proyectos destacados
-👉 Aquí pon 3–6 repos que quieras mostrar (y también “Pínalos” en tu perfil)
-
-- 📌 **Proyecto 1:** (qué hace, stack)
-- 📌 **Proyecto 2:** (qué hace, stack)
-- 📌 **Proyecto 3:** (qué hace, stack)
-
----
-
 ## 📫 Contacto
 - GitHub: https://github.com/RensoPeralta25
-- LinkedIn: (pon tu link aquí)
+- LinkedIn: 
