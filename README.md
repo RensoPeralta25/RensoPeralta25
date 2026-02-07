@@ -14,15 +14,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RensoPeralta25&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RensoPeralta25&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Lenguajes más usados
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RensoPeralta25&theme=tokyonight" />
+  <img src="https://img.shields.io/github/stars/RensoPeralta25?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/followers/RensoPeralta25?style=for-the-badge&color=purple"/>
+  <img src="https://img.shields.io/github/commit-activity/y/RensoPeralta25?style=for-the-badge&color=green"/>
 </p>
 
 ---
