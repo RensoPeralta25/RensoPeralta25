@@ -29,7 +29,7 @@
 ## 🧠 Principles Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RensoPeralta25&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RensoPeralta25&theme=tokyonight"/>
 </p>
 
 ---
