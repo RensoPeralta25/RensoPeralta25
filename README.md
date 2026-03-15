@@ -20,7 +20,8 @@
 
 ## 💻 Working On
 - Backend Developer in Clima Call
-- 
+- Using Spring Boot, Vaadin and others Java technologies
+ 
 ---
 
 ## 📊 GitHub Stats
